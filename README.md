@@ -1,6 +1,6 @@
 # END to END ML Project with Deployment
 
-## Below are the steps completed 
+## Below are the steps are to be completed 
 
 ## 1 - Setup the github repo
 ### a - new environment
