@@ -1,0 +1,13 @@
+prefix=/Users/maheswar/Library/CloudStorage/OneDrive-Personal/Mahesh/Learning/mlproject/venv
+exec_prefix=/Users/maheswar/Library/CloudStorage/OneDrive-Personal/Mahesh/Learning/mlproject/venv
+libdir=/Users/maheswar/Library/CloudStorage/OneDrive-Personal/Mahesh/Learning/mlproject/venv/lib
+sharedlibdir=/Users/maheswar/Library/CloudStorage/OneDrive-Personal/Mahesh/Learning/mlproject/venv/lib
+includedir=/Users/maheswar/Library/CloudStorage/OneDrive-Personal/Mahesh/Learning/mlproject/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
